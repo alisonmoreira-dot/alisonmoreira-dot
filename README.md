@@ -16,8 +16,7 @@
 
 NETWORK
 
-https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=alisonmoreira-dot&theme=react-dark)
 
 ## 🔥 Sequência de Contribuições
 

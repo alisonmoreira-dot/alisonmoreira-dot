@@ -87,22 +87,8 @@ Mission.............. Build • Automate • Secure
 
 </p>
 
----
 
-# 📊 SYSTEM METRICS
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonmoreira-dot&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 SYSTEM UPTIME
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alisonmoreira-dot"/>
-</p>
----
 
 # 📈 NETWORK TRAFFIC
 

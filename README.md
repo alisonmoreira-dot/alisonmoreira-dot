@@ -83,7 +83,7 @@ Mission.............. Build • Automate • Secure
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,php,python,javascript,html,css,mysql,mongodb,redis,flutter,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,vscode"/>
 
 </p>
 

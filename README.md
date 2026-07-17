@@ -6,15 +6,7 @@
 
 🚀 Apaixonado por Tecnologia
 
----
 
-## 🚀 Tecnologias
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css,python,docker,linux,mysql,git,github,vscode" />
-</p>
-
----
 
 ## 📊 Estatísticas
 

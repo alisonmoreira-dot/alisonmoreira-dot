@@ -92,11 +92,7 @@ Mission.............. Build • Automate • Secure
 # 📊 SYSTEM METRICS
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=alisonmoreira-dot&show_icons=true&theme=chartreuse-dark"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonmoreira-dot&layout=compact&theme=chartreuse-dark"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonmoreira-dot&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -104,9 +100,7 @@ Mission.............. Build • Automate • Secure
 # 🔥 SYSTEM UPTIME
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alisonmoreira-dot&theme=chartreuse-dark"/>
-
+  <img src="https://streak-stats.demolab.com?user=alisonmoreira-dot&theme=tokyonight"/>
 </p>
 
 ---

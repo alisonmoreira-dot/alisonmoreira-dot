@@ -14,10 +14,17 @@
 NETWORK
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700">
-</p>
----
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED;WELCOME+ALISON+MOREIRA;NETWORK+ENGINEER;LINUX+%7C+DOCKER+%7C+VOIP;CYBERSECURITY+%7C+WEB+DEVELOPER" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=900&lines=INITIALIZING+SYSTEM...;ACCESS+GRANTED;WELCOME+ALISON+MOREIRA;NETWORK+ENGINEER;LINUX+%7C+DOCKER+%7C+VOIP;CYBERSECURITY+%7C+WEB+DEVELOPER" />
+
+</p>
 ## 🔥 Sequência de Contribuições
 
 ![](https://streak-stats.demolab.com?user=alisonmoreira-dot&theme=tokyonight)

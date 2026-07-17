@@ -100,9 +100,8 @@ Mission.............. Build • Automate • Secure
 # 🔥 SYSTEM UPTIME
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alisonmoreira-dot&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=alisonmoreira-dot"/>
 </p>
-
 ---
 
 # 📈 NETWORK TRAFFIC

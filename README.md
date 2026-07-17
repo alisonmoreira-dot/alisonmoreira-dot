@@ -7,13 +7,11 @@
 🚀 Apaixonado por Tecnologia
 
 
+NETWORK
 
-## 📊 Estatísticas
-
-![](https://github-readme-stats.vercel.app/api?username=alisonmoreira-dot&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonmoreira-dot&layout=compact&theme=tokyonight)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="700">
+</p>
 ---
 
 ## 🔥 Sequência de Contribuições
